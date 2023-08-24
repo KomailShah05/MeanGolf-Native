@@ -1,1 +1,2 @@
-# MeanGolf
+# GolfNurd
+# GolfApp

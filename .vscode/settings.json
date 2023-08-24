@@ -1,0 +1,7 @@
+{
+	"prettier.bracketSameLine": false,
+	"prettier.useTabs": true,
+	"prettier.vueIndentScriptAndStyle": false,
+	"prettier.embeddedLanguageFormatting": "auto",
+	"editor.defaultFormatter": "esbenp.prettier-vscode"
+}

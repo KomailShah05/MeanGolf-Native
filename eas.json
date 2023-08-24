@@ -1,0 +1,31 @@
+{
+	"cli": {
+		"version": ">= 3.13.3"
+	},
+	"build": {
+		"development": {
+			"developmentClient": true,
+			"distribution": "internal"
+		},
+		"development-simulator": {
+			"developmentClient": true,
+			"distribution": "internal",
+			"ios": {
+				"simulator": true
+			}
+		},
+		"preview": {
+			"distribution": "internal"
+		},
+		"production": {}
+	},
+	"submit": {
+		"production": {
+			"ios": {
+				"appleId": "team@blindsquirrellabs.com",
+				"ascAppId": "6450435566",
+				"appleTeamId": "C9TTTX5W7D"
+			}
+		}
+	}
+}
